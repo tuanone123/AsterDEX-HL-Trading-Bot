@@ -2,7 +2,7 @@
 
 # Aster & HL Trading Bot
 
-A Bun-powered trading workstation for Aster and Hyperliquid perpetual contracts that ships two production-ready agents: an SMA30 trend follower and a dual-sided market maker. The CLI is built with Ink, synchronises risk state from the exchange, and automatically recovers from restarts or disconnects.
+High-Performance Trading Bot for Aster and Hyperliquid Perpetual Contracts – Deploy a production-ready workstation with two built-in trading agents: an SMA30 trend follower for automated momentum strategies, and a dual-sided market maker for consistent liquidity provision. The command-line interface (CLI) is lightweight and efficient, synchronizes risk management data directly from the exchange, and automatically recovers from restarts or disconnects. Perfect for crypto traders, algorithmic trading, and automated DeFi strategies on AsterDEX and Hyperliquid.
 
 * [Aster 30% Fee Discount Referral Link](https://www.asterdex.com/en/referral/FmBN1g)
 * [GRVT Fee Discount Referral Link](https://www.asterdex.com/en/referral/FmBN1g)
