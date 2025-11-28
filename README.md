@@ -15,6 +15,11 @@ Automate your trading with two built-in agents: an **SMA30 trend follower** for 
 * [GRVT Fee Discount Referral Link](https://www.asterdex.com/en/referral/FmBN1g)
 * [Hyperliquid Fee Discount Referral Link](https://www.asterdex.com/en/referral/FmBN1g)
 
+🛠 Contributing
+	•	Star the repo ⭐
+	•	Fork & submit pull requests
+	•	Open issues for bugs or feature requests
+
 ## Highlights
 - **Live market data & risk sync** via websocket feeds with REST fallbacks, full reconciliation on restart.
 - **Trend engine** featuring SMA30 entries, fixed stop loss, trailing stop, Bollinger bandwidth gate, and profit-lock stepping.
@@ -170,4 +175,11 @@ Algorithmic trading carries risk. Validate strategies with paper accounts or sma
 
 ## Contact
 For questions or technical support, please contact:
-- Telegram: [@moooncity](https://t.me/moooncity)
+Join our Hotlike Trading Community on Telegram:
+https://t.me/hotliketut￼
+
+Share feedback, discuss strategies, and get help running your bot.
+- Telegram: [@moooncity]
+- (https://t.me/moooncity)
+
+  crypto-bot, trading-bot, AsterDEX, Hyperliquid, algorithmic-trading, DeFi
