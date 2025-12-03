@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co/Kj0S66dG/c60abaae-4545-40b4-aec5-ee6353275893.jpg" alt="Aster Bot" width="70%">
+  <img src="banner.jpg" alt="Aster Bot Banner" width="80%">
 </p>
+
 
 
 # AsterDEX HL Trading Bot 🚀
