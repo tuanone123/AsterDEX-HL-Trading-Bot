@@ -1,4 +1,7 @@
-<meta property="og:image" content="[[https://yourdomain.com/images/asterdex-bot-preview.png](https://i.ibb.co/Kj0S66dG/c60abaae-4545-40b4-aec5-ee6353275893.jpg)](https://i.ibb.co/Kj0S66dG/c60abaae-4545-40b4-aec5-ee6353275893.jpg)" />
+<p align="center">
+  <img src="https://i.ibb.co/Kj0S66dG/c60abaae-4545-40b4-aec5-ee6353275893.jpg" alt="Aster Bot" width="70%">
+</p>
+
 
 # AsterDEX HL Trading Bot 🚀
 * [Aster 30% Fee Discount Referral Link](https://www.asterdex.com/en/referral/FmBN1g)
